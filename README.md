@@ -15,7 +15,7 @@
 </p>
 
 ## About Me 🎓
-- I’m *Lakshya Bhardwaj, a Data Science Engineer from **Gurugram University*.  
+- I’m Lakshya Bhardwaj, a Data Science Engineer from *Gurugram University*.  
 - Completed *100+ real-world Data Science & Machine Learning projects*.  
 - Specialized in *Data Analysis, Model Building, Predictive Systems & Big Data pipelines*.  
 - Passionate about turning data into meaningful insights using modern technologies.  
