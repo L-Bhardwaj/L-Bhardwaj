@@ -6,13 +6,12 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-raj" target="_blank">
+  <a href="linkedin.com/in/lakshya-bhardwaj-a55a15251" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:avishekrajj@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-avishekrajj@gmail.com-red">
+  <a href="mailto:l.bhardwaj0624@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-l.bhardwaj0624@gmail.com-red">
   </a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=abhishek-raj-username&style=flat&color=0e75b6">
 </p>
 
 ## About Me 🎓
@@ -167,9 +166,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-bhardwaj-username" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-bhardwaj-username&layout=compact" alt="Top Languages" />
-</p>
+
