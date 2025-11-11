@@ -6,7 +6,13 @@
 </div>
 
 <p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=lakshya-bhardwaj-username&style=flat&color=0e75b6">
+  <a href="https://www.linkedin.com/in/abhishek-raj" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:avishekrajj@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-avishekrajj@gmail.com-red">
+  </a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=abhishek-raj-username&style=flat&color=0e75b6">
 </p>
 
 ## About Me 🎓
